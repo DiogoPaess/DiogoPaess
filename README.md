@@ -1,7 +1,11 @@
 ### Olá! 👋
 
-Atualmente cursando Ciência da Computação, estou focado em expandir meus conhecimentos e habilidades em desenvolvimento web, com ênfase nas tecnologias JavaScript, React e Node.js.
+Full Stack Developer, currently completing a degree in Computer Science. I have practical experience in personal projects using JavaScript, TypeScript, Node.js, React, HTML, CSS, Sass, Bootstrap, PostgreSQL and Sequelize.
 
-Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento web. Quero colocar em prática o aprendizado e continuar crescendo, contribuindo com projetos inovadores e desafiadores.
+With 7 years of experience as a personal trainer, I have developed essential soft skills such as discipline, teamwork, resilience and problem-solving - which I now apply in the tech world to create efficient solutions. The transition has been challenging, but extremely rewarding. I'm still looking for my first opportunity as a developer and I'm open to new challenges!
 
-Em minha jornada como desenvolvedor, elaborei alguns projetos para aprimorar meus conhecimentos e continuo buscando aprender todos os dias.
+I'm looking for my first opportunity in the tech industry, available immediately, and currently improving my knowledge. I believe in the power of technology to change lives and am committed to continuous growth and collaboration.
+
+📌 Tech Stack: JavaScript, TypeScript, Node.js, React, PostgreSQL, Sequelize 
+Personal skills: Effective communication, Teamwork, Adaptability, Proactivity, Problem solving;
+Projects on GitHub: https://github.com/DiogoPaess
